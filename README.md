@@ -704,7 +704,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
     
   [![SL ALPHA](https://github.com/SL-Alpha-X.png?size=110)](https://github.com/SL-Alpha-X) |  [![HansakaBro](https://github.com/HansakaBro.png?size=110)](https://github.com/HansakaBro) |  [![UviYaBro](https://github.com/UviYaBro.png?size=110)](https://github.com/UviYaBro) 
 ------|------|------
-[• sʟ-ᴀʟᴘʜᴀ-x •](https://github.com/SL-Alpha-X)  | [• ʜᴀɴsᴀᴋᴀʙʀᴏ •](https://github.com/HansakaBro) | [• ᴜᴠɪʏᴀʙʀᴏ •](https://github.com/UviYaBro)
+[• sʟ-ᴀʟᴘʜᴀ-x •](https://github.com/dulnithpasan/SL-Alpha-X)  | [• ʜᴀɴsᴀᴋᴀʙʀᴏ •](https://github.com/HansakaBro) | [• ᴜᴠɪʏᴀʙʀᴏ •](https://github.com/UviYaBro)
   </div>
 
 </div>
